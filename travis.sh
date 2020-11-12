@@ -8,8 +8,8 @@ if [[ -n "$CF_PASSWORD" ]]; then
   sudo apt-get update
   sudo apt-get install cf-cli
   CF_APP=banking-nest-travis
-  CF_USERNAME=ebautistau@unmsm.edu.pe
-  CF_ORGANIZATION=ebautistau@unmsm.edu.pe
+  CF_USERNAME=walter.quispenavarro@unmsm.edu.pe
+  CF_ORGANIZATION=walter.quispenavarro@unmsm.edu.pe
   CF_SPACE=dev
   echo $CF_APP
   echo $CF_USERNAME
