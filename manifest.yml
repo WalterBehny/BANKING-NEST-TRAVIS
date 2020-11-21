@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: banking-nest-waltertravis
+  - name: banking-nest-walter_travis
     memory: 256MB
     instances: 1
     buildpacks:
